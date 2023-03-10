@@ -1,0 +1,4 @@
+using opengl primitives display a rectangular window place it in a suitable position and draw a rectangle inside a window having red edges
+
+
+Implementation of DDA line drawing algorithm. "The program should take input of the initial end-point and the final end-point. Divide the coordinate axes into four quadrants and draw the line. Show that your program works for [m>0, m=0 and m<0]".

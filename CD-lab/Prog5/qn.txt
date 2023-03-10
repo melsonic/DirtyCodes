@@ -1,0 +1,1 @@
+Write a lex program to count the number of lines, words, special characters and letters in a program.

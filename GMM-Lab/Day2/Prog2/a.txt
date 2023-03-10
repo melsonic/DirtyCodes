@@ -1,0 +1,13 @@
+implement a triangle and perform the following 2D transformation over the triangle 
+1 translation
+2 scaling
+3 shearing
+4 reflation
+5 rotation
+
+
+given a square object with coordinate point a(0, 3), b(3, 3) c(3, 0) d(0, 0) and perform the following
+(i) scaling with parameter 2 towards x axis and 3 owards y axis
+(ii) translation with dis 1 towards x axis and 5 towards y axis
+(iii) reflection on x axis
+(iv) rotation 90deg antoclockwise

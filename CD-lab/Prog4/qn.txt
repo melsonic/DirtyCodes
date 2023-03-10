@@ -1,0 +1,2 @@
+Write a lex program to count the number of vowels and consonants in a given
+sentence

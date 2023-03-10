@@ -1,0 +1,3 @@
+Implementation of DDA line drawing algorithm. "The program should take input of the initial end-point and the final end-point. Divide the coordinate axes into four quadrants and draw the line. Show that your program works for [m>0, m=0 and m<0]".
+
+implementation of Bresenhan line drawing algorithm the program should take input of the initial endpoint and the final endpoint and verify weather the drawn line is smooth one or not. The program should be generic so that it works for integer values. check for the slope of the line [m<0, m=0, m>0]
